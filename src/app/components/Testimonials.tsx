@@ -3,21 +3,21 @@ import Image from 'next/image';
 const testimonials = [
   {
     name: "Rahul Sharma",
-    designation: "CEO, ABC Enterprises",
+    designation: "CEO,Enterprises",
     feedback:
       "Niyamak Tender Solutions helped us streamline our bidding process. Their expertise resulted in a 30% increase in our success rate.",
     image: "/images/author.png",
   },
   {
     name: "Priya Verma",
-    designation: "Director, XYZ Pvt Ltd",
+    designation: "Director",
     feedback:
       "Their team provided excellent guidance and support throughout the tender submission process. Highly recommended!",
     image: "/images/author.png",
   },
   {
     name: "Amit Patel",
-    designation: "MD, Bright Tech",
+    designation: "MD",
     feedback:
       "The post-submission assistance provided by Niyamak Tender Solutions was outstanding. They ensured we stayed ahead of the competition.",
     image: "/images/author.png",

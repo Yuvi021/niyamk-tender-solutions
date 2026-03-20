@@ -33,7 +33,7 @@ export default function FounderCard({
       <Link
         href={linkedin}
         target="_blank"
-        className="mt-4 inline-block text-blue-600 hover:underline"
+        className="mt-4 inline-block text-emerald-600 hover:underline"
       >
         View LinkedIn Profile →
       </Link>

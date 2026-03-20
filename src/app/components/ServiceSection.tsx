@@ -4,7 +4,7 @@ const services = [
   {
     title: "Tender Submission",
     description: "We assist in preparing and submitting high-quality tenders.",
-    icon: <FaFileContract className="text-blue-500 text-4xl" />,
+    icon: <FaFileContract className="text-emerald-500 text-4xl" />,
   },
   {
     title: "Bid Management",
