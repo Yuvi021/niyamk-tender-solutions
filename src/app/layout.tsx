@@ -65,6 +65,11 @@ export const metadata: Metadata = {
       "Tender consultancy and GeM portal support to help you win more tenders.",
     images: ["/images/hero-bg.jpg"],
   },
+  icons: {
+    icon: "/images/logo.jpeg",
+    shortcut: "/images/logo.jpeg",
+    apple: "/images/logo.jpeg",
+  },
 };
 
 export default function RootLayout({
